@@ -17,10 +17,4 @@ void main()
 		else if (i > 9){k = i - 10;cout << arr[k] << "\t";}
 	}
 
-
-
-
-
-
-
 }
