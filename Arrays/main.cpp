@@ -1,4 +1,4 @@
-ï»¿#include<iostream>
+#include<iostream>
 
 using namespace std;
 
@@ -9,7 +9,7 @@ void main()
 
 
 	int array[5];
-	for (int i = 0; i < 5; i++) { cout << "Ð’ÐµÐ´Ð¸Ñ‚Ðµ " << i + 1 << " ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ Ð¼Ð°ÑÐ¸Ð²Ð° :"; cin >> array[i]; }
+	for (int i = 0; i < 5; i++) { cout << "Âåäèòå " << i + 1 << " ýëåìåíò ìàñèâà :"; cin >> array[i]; }
 	cout << endl;
 	for (int i = 0; i < 5; i++)
 	{
@@ -26,6 +26,6 @@ void main()
 	{
 		sum += array[i];
 	}
-	cout << "Ð¡ÑƒÐ¼Ð¼Ð° ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð¼Ð°ÑÐ¸Ð²Ð° :" << sum << "\n";
-	cout << "Ð¡Ñ€ÐµÐ´Ð½ÐµÐµ Ð°Ñ€Ð¸Ñ„Ð¼ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¾Ðµ  :" << sum / 5 << "\n\n\n\n";
+	cout << "Ñóììà ýëåìåíòîâ ìàñèâà :" << sum << "\n";
+	cout << "Ñðåäíåå àðèôìåòè÷åñêîå  :" << sum / 5 << "\n\n\n\n";
 }
