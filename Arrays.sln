@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arrays", "Arrays\Arrays.vcxproj", "{79468EFF-6F28-4337-A673-9B51C0C8B8DF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shift", "Shift\Shift.vcxproj", "{3E5A04DC-7A19-45F4-9B60-46E29BAE8C7D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The converter", "The converter\The converter.vcxproj", "{989FBA35-60F8-4BB9-9436-5207174E581E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{3E5A04DC-7A19-45F4-9B60-46E29BAE8C7D}.Release|x64.Build.0 = Release|x64
 		{3E5A04DC-7A19-45F4-9B60-46E29BAE8C7D}.Release|x86.ActiveCfg = Release|Win32
 		{3E5A04DC-7A19-45F4-9B60-46E29BAE8C7D}.Release|x86.Build.0 = Release|Win32
+		{989FBA35-60F8-4BB9-9436-5207174E581E}.Debug|x64.ActiveCfg = Debug|x64
+		{989FBA35-60F8-4BB9-9436-5207174E581E}.Debug|x64.Build.0 = Debug|x64
+		{989FBA35-60F8-4BB9-9436-5207174E581E}.Debug|x86.ActiveCfg = Debug|Win32
+		{989FBA35-60F8-4BB9-9436-5207174E581E}.Debug|x86.Build.0 = Debug|Win32
+		{989FBA35-60F8-4BB9-9436-5207174E581E}.Release|x64.ActiveCfg = Release|x64
+		{989FBA35-60F8-4BB9-9436-5207174E581E}.Release|x64.Build.0 = Release|x64
+		{989FBA35-60F8-4BB9-9436-5207174E581E}.Release|x86.ActiveCfg = Release|Win32
+		{989FBA35-60F8-4BB9-9436-5207174E581E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
