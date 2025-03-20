@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 
 using namespace std;
 
@@ -7,7 +7,7 @@ void main()
 	setlocale(LC_ALL, "RU");
 
 	int  i = 19, k = 0, n, f = 0, arr[20] = {};
-	cout << "Ââåäèòå ÷èñëî :"; cin >> n; cout << "\n";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ‡Ð¸ÑÐ»Ð¾ :"; cin >> n; cout << "\n";
 	while (n)
 	{
 
@@ -22,7 +22,7 @@ void main()
 	//------------------------------------------------------------
 	 k = 0, i = 10, f = 0, arr[10]={};
 	cout << endl;
-	cout << "Ââåäèòå ÷èñëî :"; cin >> n; cout << "\n";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ‡Ð¸ÑÐ»Ð¾ :"; cin >> n; cout << "\n";
 	while (n)
 	{
 
